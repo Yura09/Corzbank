@@ -1,0 +1,24 @@
+# Task 1
+## Team
+- Yurii Savchenko([Yura09](https://github.com/Yura09))
+  - Role: Full-stack Developer and Project Manager
+  - Responsibilities:
+    - Collaborating with the team to understand requirements and design goals.
+    - Creating intuitive and user-friendly interfaces for the banking application.
+    - Developing and maintaining server-side components, including database management, API integration, and business logic implementation.
+    - Ensuring cross-browser compatibility and responsive design.
+    - Collaborating with other developers for seamless integration of frontend and backend functionalities.
+    - Conducting usability testing and gathering user feedback.
+    - Creating a budget that includes all costs associated with the project, such as development tools, hosting fees, and third-party APIs
+    - Ensuring that the project is completed within budget and resource constraints
+- Yurii Ben ([YuriyBen](https://github.com/YuriyBen))
+  - Role: Project Owner  Lead Developer
+  - Responsibilities:
+    - Overall project management and coordination.
+    - Feature planning and prioritization.
+    - Architecture design and implementation.
+    - Backend development.
+    - UI/UX design oversight.
+    - Implementing frontend components and user interactions.
+    - Testing and quality assurance.
+    - Deployment and maintenance.
