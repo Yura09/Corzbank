@@ -6,48 +6,48 @@ The project will be executed over a period of 120 days. The following is an over
 
 Duration: 10 days<br />
 Tasks:<br />
-Define project scope and objectives
-Identify stakeholders and gather requirements
-Create the project charter and obtain approvals
+Define project scope and objectives<br />
+Identify stakeholders and gather requirements<br />
+Create the project charter and obtain approvals<br />
 Develop a detailed project plan and schedule
 
 ### Phase 2: Design and Development
 
 Duration: 40 days<br />
 Tasks:<br />
-Design the application architecture and user interface
-Develop the card management module
-Implement the money transfer module
-Build the phone top-up module
-Develop the deposit account module
+Design the application architecture and user interface<br />
+Develop the card management module<br />
+Implement the money transfer module<br />
+Build the phone top-up module<br />
+Develop the deposit account module<br />
 Integrate the real-time currency exchange functionality
 
 ### Phase 3: Testing and Quality Assurance
 
 Duration: 20 days<br />
 Tasks:<br />
-Develop and execute test cases
-Perform functional, integration, and regression testing
-Identify and resolve any defects or issues
+Develop and execute test cases<br />
+Perform functional, integration, and regression testing<br />
+Identify and resolve any defects or issues<br />
 Ensure compliance with security and regulatory requirements
 
 ### Phase 4: Deployment and Launch
 
 Duration: 15 days<br />
 Tasks:<br />
-Prepare the production environment
-Configure and deploy the application
-Conduct user acceptance testing (UAT)
-Prepare documentation and user guides
+Prepare the production environment<br />
+Configure and deploy the application<br />
+Conduct user acceptance testing (UAT)<br />
+Prepare documentation and user guides<br />
 Coordinate the application launch and marketing activities
 
 ### Phase 5: Post-launch Support and Maintenance
 
 Duration: 35 days<br />
 Tasks:<br />
-Monitor application performance and user feedback
-Address any post-launch issues or enhancements
-Provide ongoing maintenance and support services
+Monitor application performance and user feedback<br />
+Address any post-launch issues or enhancements<br />
+Provide ongoing maintenance and support services<br />
 Plan for future updates and feature enhancements
 ## Project Resources:
 Project Manager: Responsible for overall project coordination, stakeholder management, and ensuring project objectives are met.<br />
